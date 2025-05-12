@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Issabel Averina"
-  avatar : "/assets/images/Profile.png"
+  avatar : "/assets/images/Profile.jpg"
   bio    : "Aspiring Data Scientist Open to Diverse Opportunities."
   links:
     - label: "Linkedin"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/issabelaverina"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

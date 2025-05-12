@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Issabel Averina 
+title: issabelaverina18@gmail.com
 email: issabelaverina18@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My Portfolio
@@ -69,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IssabelAverina"
- #   - label: "Instagram"
- #     icon: "fab fa-fw fa-instagram"
- #     url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "issabelaverina18@gmail.com"
 
 footer:
   links:

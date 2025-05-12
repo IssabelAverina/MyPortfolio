@@ -5,7 +5,6 @@
 layout: single
 author_profile: true
 ---
-# Portfolio
 #### Technical: Python, SQL, Java, SPSS, Tableau
 
 ## Education

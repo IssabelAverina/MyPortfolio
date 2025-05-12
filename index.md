@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 ---
 #### Technical: Python, SQL, Java, SPSS, Tableau
+### Language: Native in Bahasa Indonesia, Fluent in English
 
 ## Education
 **BINUS UNIVERSITY** (2022 - Present)  
@@ -30,3 +31,8 @@ Majoring in Information Systems and Management
 **Administration Staff @ Victoria Property (January 2022) – (March 2024)**
 - Assisted with administrative tasks such as scheduling real-estate appointments, and preparing documents and records to ensure efficient operations.
 - Handled daily office operations, answering and directing phone calls, planning meetings, and monitoring day-to-day matters.
+
+### Certifications and Courses
+- [The Data Science Course: Complete Data Science Bootcamp 2025](https://ude.my/UC-a06ba513-1c0d-4d94-98ec-c742805dca62)
+- HackerRank Advanced in SQL Certification
+- HashMicro HRM Software

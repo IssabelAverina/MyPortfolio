@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm Issabel Averina and i'm passionate about transforming data into actionable insights, I am an aspiring data scientist with a strong foundation in analytics, machine learning, and problem-solving. Currently pursuing a double degree in Information Systems and Management, I am able to bridge technical expertise with strategic business needs to drive data-driven decisions.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Eager to apply my skills in dynamic environments, I am open to roles in data analysis, business intelligence, and related fields where I can contribute to solving complex challenges. Equipped with a curiosity for learning and a collaborative mindset, I thrive at the intersection of technology and business—turning raw data into innovative solutions.

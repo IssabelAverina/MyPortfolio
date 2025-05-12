@@ -5,8 +5,9 @@
 layout: single
 author_profile: true
 ---
-#### Technical: Python, SQL, Java, SPSS, Tableau
-#### Language: Native in Bahasa Indonesia, Fluent in English
+#### Skills
+- Technical: Python, SQL, Java, SPSS, Tableau
+- Language: Native in Bahasa Indonesia, Fluent in English
 
 ## Education
 **BINUS UNIVERSITY** (2022 - Present)  

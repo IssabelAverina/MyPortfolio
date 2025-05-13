@@ -1,27 +1,46 @@
-# Minimal Mistakes remote theme starter
+# About Me
+Hi! I’m Issabel Averina and i’m passionate about transforming data into actionable insights, I am an aspiring data scientist with a strong foundation in analytics, machine learning, and problem-solving. Currently pursuing a double degree in Information Systems and Management, I am able to bridge technical expertise with strategic business needs to drive data-driven decisions.
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+I am open to roles in data analysis, business intelligence, and related fields where I can contribute to solving complex challenges. Equipped with a curiosity for learning and a collaborative mindset, I thrive at the intersection of technology and business—turning raw data into innovative solutions.
 
-Contains basic configuration to get you a site with:
+# Portfolio
+#### Technical: Python, SQL, Java, SPSS, Tableau
+#### Language: Native in Bahasa Indonesia, Fluent in English
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Education
+**BINUS UNIVERSITY** (2022 - Present)  
+Bachelor of Science and Bachelor of Economics  
+Majoring in Information Systems and Management
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Experience
+**Part-time Teaching Assistant @ BINUS Information Systems Laboratory (February 2025) – (Present)**
+- Delivered weekly instruction on Information Systems Analysis and Design and Data Fundamentals to students, ensuring clear understanding of core concepts.
+- Conducted regular training sessions to enhance technical expertise in both subjects to stay updated with current industry standards.
+- Assisted in the development and improvement of course materials to enhance learning outcomes.
 
----
+**Academic Mentor @ BINUS SASC Mentoring Program (September 2024) – (February 2025)**
+- Designed and led effective group study sessions, fostering collaboration and enhanced learning outcomes.
+- Provided tailored academic support, resulting in significant improvements in challenging subjects for mentees.
 
-## Troubleshooting
+**Event Specialist @ BINUS iBuddy+ Community ( February 2024) – (August 2024)**
+- Planned and executed engaging events for the community.
+- Developed and fostered partnerships with university clubs and organizations.
+- Provided communication and guidance to foreign exchange students, ensuring a smooth and enriching experience at BINUS University.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+**Administration Staff @ Victoria Property (January 2022) – (March 2024)**
+- Assisted with administrative tasks such as scheduling real-estate appointments, and preparing documents and records to ensure efficient operations.
+- Handled daily office operations, answering and directing phone calls, planning meetings, and monitoring day-to-day matters.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+## Projects
+### Personal Projects
+- A [Vehicle Classifier](https://github.com/IssabelAverina/PersonalProjects/tree/d5b05946aff38fe14782d18aeecd39d305a1d5b7/VehicleClassifier) that could identify 17 different vehicle types. The model was able to predict the vehicle type with a 95% accuracy after minimal tuning. This result was achieved by using transfer learning on a CNN that is trained on resnet34.
+
+
+### University Projects
+
+
+## Courses and Certifications
+- The Data Science Course: Complete Data Science Bootcamp 2025 by Udemy
+-  Hashmicro HRM Software
+

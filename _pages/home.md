@@ -24,9 +24,9 @@ Majoring in Information Systems and Management
 - Provided tailored academic support, resulting in significant improvements in challenging subjects for mentees.
 
 **Event Specialist @ BINUS iBuddy+ Community ( February 2024) – (August 2024)**
-- Planned and executed engaging events for the community.
-- Developed and fostered partnerships with university clubs and organizations.
-- Provided communication and guidance to foreign exchange students, ensuring a smooth and enriching experience at BINUS University.
+- Planned and executed engaging community events to enhance student participation and cultural exchange
+- Supported foreign exchange students by providing clear communication and personalized guidance
+- Ensured a smooth transition and enriching experience for international students at BINUS University
 
 **Administration Staff @ Victoria Property (January 2022) – (March 2024)**
 - Assisted with administrative tasks such as scheduling real-estate appointments, and preparing documents and records to ensure efficient operations.

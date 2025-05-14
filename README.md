@@ -47,6 +47,7 @@ Majoring in Information Systems and Management
 
 
 ## Courses and Certifications
-- The Data Science Course: Complete Data Science Bootcamp 2025 by Udemy
--  Hashmicro HRM Software
+- [The Data Science Course: Complete Data Science Bootcamp by Udemy](https://www.udemy.com/certificate/UC-a06ba513-1c0d-4d94-98ec-c742805dca62/)
+- [Hashmicro HRM Software](https://certificate.hashmicro.com/certificate/HMAC-2023-K002-D-003/J5xjfBzHo76r0vJpAg==)
+- [HackerRank Advanced SQL Certificate](https://www.hackerrank.com/certificates/03521984b6b6)
 
